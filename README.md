@@ -29,3 +29,7 @@ Microsoft Exchange is an on-premises (through Exchange Server software) or cloud
 <hr />
 
 # 3. <a name="supplemental">Supplemental Resources</a>
+
+* *[Official Microsoft Exchange Online Website](https://www.microsoft.com/en-us/microsoft-365/exchange/exchange-online)*
+* *[Official Microsoft Exchange E-mail Service Website](https://www.microsoft.com/en-us/microsoft-365/exchange/email)*
+* *[Official Microsoft Page on Comparing Exchange Online Price Plans](https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans)*
