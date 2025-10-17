@@ -1,18 +1,16 @@
 # Intro to Microsoft Exchange Overview Guide
 
-**TODO:** An introductory guide to Microsoft Exchange and how it compares and contrasts with Microsoft Outlook. 
+**Description/Overview:** Microsoft Exchange is a popular on-premises (through Exchange Server software) or cloud-hosted (through a Microsoft 365 Exchange Online subscription) solution for organizational e-mail, calendar, contact, and task services. This guide provides a glimpse into how Exchange and Outlook compare, contrast, and complement one another as enterprise-capable communications solutions.
 
 #### Table of Contents
 
-1. [Defining Microsoft Exchange](#defining)
+1. [Reasons to Use Microsoft Exchange](#reasons)
 2. [Exchange vs. Outlook](#outlook)
 3. [Supplemental Resources](#supplemental)
 
 <hr />
 
-# 1. <a name="defining">Defining Microsoft Exchange</a>
-
-Microsoft Exchange is an on-premises (through Exchange Server software) or cloud-hosted (through a Microsoft 365 Exchange Online subscription) solution for organizational e-mail, calendar, contact, and task services. For e-mail transmissions, Exchange relies on TCP (Transmission Control Protocol) for such subprotocols as SMTP, POP, and IMAP.
+# 1. <a name="reasons">Reasons to Use Microsoft Exchange</a>
 
 **Some important benefits of using Microsoft Exchange include:**
 
@@ -20,7 +18,8 @@ Microsoft Exchange is an on-premises (through Exchange Server software) or cloud
 * The automatic syncing of data for various apps and devices.
 * Keeping inboxes secure through anti-spam and anti-malware/anti-virus filtering solutions.
 * Keeping inbox messages 'focused' so that the most essential messages remain emphasized.
-* Empowering organizations to collaborate through shared data and other resources. 
+* Empowering organizations to collaborate through shared data and other resources.
+* For e-mail transmissions, compatability with TCP (Transmission Control Protocol) subprotocols (e.g., SMTP, POP, IMAP).
 
 <hr />
 
