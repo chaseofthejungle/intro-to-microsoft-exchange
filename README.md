@@ -4,15 +4,15 @@
 
 #### Table of Contents
 
-1. [Reasons to Use Microsoft Exchange](#reasons)
+1. [Microsoft Exchange Advantages and Disadvantages](#exchange)
 2. [Exchange vs. Outlook](#outlook)
 3. [Supplemental Resources](#supplemental)
 
 <hr />
 
-# 1. <a name="reasons">Reasons to Use Microsoft Exchange</a>
+# 1. <a name="exchange">Microsoft Exchange Advantages and Disadvantages</a>
 
-**Some important benefits of using Microsoft Exchange include:**
+**Some benefits of using Microsoft Exchange include:**
 
 * Centrally manageable e-mail, calendars, contacts, and tasks.
 * The automatic syncing of data for various apps and devices.
@@ -20,6 +20,12 @@
 * Keeping inbox messages 'focused' so that the most essential messages remain emphasized.
 * Empowering organizations to collaborate through shared data and other resources.
 * For e-mail transmissions, compatability with TCP (Transmission Control Protocol) subprotocols (e.g., SMTP, POP, IMAP).
+
+**Some potential disadvantages of using Microsoft Exchange include:**
+
+* Learning curves for complex deployments, configurations, and troubleshooting tasks.
+* Potential integration issues with non-Microsoft products.
+* Possible overlooking of more organizationally-appropriate alternatives (e.g., Google Workspace).
 
 <hr />
 
@@ -34,6 +40,7 @@ An easy way to draw a distinction between Exchange and Outlook is to consider th
 | Intended Users | Accessed and configured by database operators and network/system administrators. | Accessible by various end users for daily digital interactions. |
 | Direct Collaboration | Advanced, granular features for collaboration, with permissions and resource deployments/configurations determined by admins. | Some limited collaborative potential, but lacks the complex features/control of Exchange. |
 | Security Potential | Advanced administrative policies can be configured and enforced for organizational, regulatory, and other compliance purposes. | Junk folder for spam e-mails (both automatically and manually/user flagged). |
+| Maximum Message Size | Variable and administratively configurable, but can be relatively large (such as 64 MB for Exchange Web Services). | Can be smaller, especially due to client-side restrictions. |
 
 <hr />
 
